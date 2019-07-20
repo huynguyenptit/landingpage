@@ -1,6 +1,7 @@
 @font-face {
   font-family: SVN;
-  src:url('../fonts/SVN-Harabaras.ttf');
+  /*src:url('../fonts/SVN-Harabaras.ttf');*/
+  src: url("../fonts/OpenSans-Semibold.ttf");
   font-weight:normal;
   font-style:normal;
 }
@@ -208,7 +209,7 @@ a:hover {
 }
 
 #harm .list-harm__item .item-content__text span {
-  font-weight: 600;
+  /*font-weight: 600;*/
   color: #fff;
 }
 
@@ -478,7 +479,7 @@ a:hover {
 }
 
 .time {
-  margin: 40px 0 70px;
+  margin: 0px 0 70px;
   background-image: url("../images/banner dong ho.jpg");
   background-size: cover;
   height: 500px;
@@ -549,7 +550,7 @@ a:hover {
 }
 
 .book-time {
-  padding-bottom: 70px;
+  /*padding-bottom: 70px;*/
 }
 
 .book-time .title {
@@ -579,8 +580,8 @@ a:hover {
   padding: 5px 10px;
   border-radius: 15px;
   color: #fff;
-  font-weight: 600;
-  background: #e87f02;
+  /*font-weight: 600;*/
+  background: #389cd7;
 }
 
 @media (max-width: 576px) {
