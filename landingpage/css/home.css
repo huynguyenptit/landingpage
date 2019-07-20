@@ -8,7 +8,22 @@ body {
   font-family: SVN !important;
   letter-spacing: 1px;
 }
-
+#header{
+  z-index: 2;
+  position: fixed;
+  width: 100%;
+  background: #ffffff;
+}
+.scroll-down {
+  top: 0px;
+  -webkit-transition: all 500ms;
+  transition: all 500ms;
+}
+.scroll-up {
+  top: -100px;
+  -webkit-transition: all 500ms;
+  transition: all 500ms;
+}
 a {
   text-decoration: none;
   color: #389cd7;
@@ -17,6 +32,7 @@ a {
 a:hover {
   text-decoration: none !important;
   color: #389cd7;
+  cursor: pointer;
 }
 
 .btn-handle {
@@ -30,7 +46,7 @@ a:hover {
 
 .btn-blue {
   background: #389cd7;
-  color: #fff;
+  color: #fff!important;
 }
 
 .btn-green {
