@@ -234,6 +234,7 @@ a:hover {
   }
 
   #harm .list-harm__item .item-content__text {
+    font-size: 0.8rem;
     padding: 10px;
   }
 }
@@ -242,7 +243,7 @@ a:hover {
   background-image: url('../images/banner3.png');
   background-size: cover;
   background-position: center center;
-  height: 800px;
+  min-height: 800px;
 }
 
 #banner3 .banner-content {
@@ -263,7 +264,7 @@ a:hover {
 
 #banner3 .banner-content iframe {
   width: 40%;
-  height: 300px;
+  height: 400px;
 }
 
 #banner3 .banner-content .desc {
@@ -272,11 +273,12 @@ a:hover {
 
 @media (max-width: 576px) {
   #banner3 {
-    height: 500px;
+    min-height: 500px;
+    padding: 0 1rem;
   }
 
   #banner3 .banner-content .title {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   #banner3 .banner-content p {
@@ -284,12 +286,13 @@ a:hover {
   }
 
   #banner3 .banner-content iframe {
-    width: 300px;
-    height: 150px;
+    width: 100%;
+    height: 200px;
   }
 
   #banner3 .banner-content .desc {
-    font-size: 14px;
+    margin-top: 20px;
+    font-size: 12px;
   }
 }
 
@@ -310,6 +313,16 @@ a:hover {
   margin-top: 20px;
 }
 
+.text-promise{
+  font-size: 1.5rem;
+}
+.btn-orange{
+  background: #e77e01;
+  color: #ffffff;
+}
+.text-red{
+  color: red;
+}
 @media (max-width: 768px) {
   .doctor-intro {
     flex-direction: column;
@@ -547,6 +560,9 @@ a:hover {
   .time .count-time .list-time__item .item__unit {
     font-size: 13px;
   }
+  .text-promise{
+    font-size: 1.5rem;
+  }
 }
 
 .book-time {
@@ -576,12 +592,12 @@ a:hover {
 }
 
 .book-time .promise span {
-  font-size: 15px;
+  /*font-size: 15px;*/
   padding: 5px 10px;
   border-radius: 15px;
   color: #fff;
   /*font-weight: 600;*/
-  background: #389cd7;
+  /*background: #389cd7;*/
 }
 
 @media (max-width: 576px) {
@@ -605,7 +621,7 @@ a:hover {
   }
 
   .book-time .promise span {
-    font-size: 12px;
+    /*font-size: 12px;*/
   }
 }
 

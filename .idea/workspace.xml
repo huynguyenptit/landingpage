@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94b11806-d261-4863-ad26-02d368ee129e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage/css/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage/index.html" afterDir="false" />
     </list>
@@ -13,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landingpage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="351" column="36" selection-start-line="351" selection-start-column="36" selection-end-line="351" selection-end-column="36" />
+            <state relative-caret-position="178">
+              <caret line="282" column="46" selection-start-line="282" selection-start-column="46" selection-end-line="282" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landingpage/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="517" column="1" lean-forward="true" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="323" column="13" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -60,6 +61,20 @@
       <find>font-fa</find>
       <find>Cam kết hoàn</find>
       <find>.time</find>
+      <find>ifra</find>
+      <find>iframe</find>
+      <find>Cam kết</find>
+      <find>Cam kết hoàn tiền 108%</find>
+      <find>#banner3</find>
+      <find>#harm .list-harm__item .item-content__text</find>
+      <find>#banner3 .banner-content .title</find>
+      <find>quy trình</find>
+      <find>#banner3 .banner-content .desc</find>
+      <find>cảm</find>
+      <find>e77e01</find>
+      <find>.book-time .promise span</find>
+      <find>cam kết</find>
+      <find>.btn-or</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -69,8 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/landingpage/bootstrap/js/jquery.js" />
-        <option value="$PROJECT_DIR$/landingpage/index.html" />
         <option value="$PROJECT_DIR$/landingpage/css/home.css" />
+        <option value="$PROJECT_DIR$/landingpage/index.html" />
       </list>
     </option>
   </component>
@@ -160,12 +175,12 @@
       <workItem from="1563555475711" duration="3293000" />
       <workItem from="1563586047441" duration="7000" />
       <workItem from="1563586531608" duration="2437000" />
-      <workItem from="1563608923038" duration="3773000" />
+      <workItem from="1563608923038" duration="9686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9510000" />
+    <option name="totallyTimeSpent" value="15423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -206,17 +221,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/index.html">
+    <entry file="file://$PROJECT_DIR$/landingpage/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="351" column="36" selection-start-line="351" selection-start-column="36" selection-end-line="351" selection-end-column="36" />
+        <state relative-caret-position="195">
+          <caret line="323" column="13" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/css/home.css">
+    <entry file="file://$PROJECT_DIR$/landingpage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="517" column="1" lean-forward="true" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="1" />
+        <state relative-caret-position="178">
+          <caret line="282" column="46" selection-start-line="282" selection-start-column="46" selection-end-line="282" selection-end-column="46" />
         </state>
       </provider>
     </entry>
