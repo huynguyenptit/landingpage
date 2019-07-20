@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94b11806-d261-4863-ad26-02d368ee129e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/landingpage/images/du-hoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landingpage/images/huongyen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landingpage/images/huynhanh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landingpage/images/nho-rang-bang-tay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landingpage/images/piezotome.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landingpage/images/thutrang.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landingpage/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage/css/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landingpage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="282" column="46" selection-start-line="282" selection-start-column="46" selection-end-line="282" selection-end-column="46" />
+            <state relative-caret-position="246">
+              <caret line="226" column="74" selection-start-line="226" selection-start-column="74" selection-end-line="226" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -75,6 +80,8 @@
       <find>.book-time .promise span</find>
       <find>cam kết</find>
       <find>.btn-or</find>
+      <find>ngay hôm</find>
+      <find>jpg.jpg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,6 +139,12 @@
               <item name="landingpage" type="462c0819:PsiDirectoryNode" />
               <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="landingpage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landingpage" type="462c0819:PsiDirectoryNode" />
+              <item name="landingpage" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,6 +159,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Huy Nguyen\Downloads\landingpage\landingpage\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Huy Nguyen\Downloads\landingpage\landingpage\bootstrap\js" />
     </key>
@@ -175,18 +191,18 @@
       <workItem from="1563555475711" duration="3293000" />
       <workItem from="1563586047441" duration="7000" />
       <workItem from="1563586531608" duration="2437000" />
-      <workItem from="1563608923038" duration="9686000" />
+      <workItem from="1563608923038" duration="11654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15423000" />
+    <option name="totallyTimeSpent" value="17391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -199,7 +215,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -228,10 +244,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/images/piezotome.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/images/nho-rang-bang-tay.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/images/thutrang.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/images/huynhanh.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/images/du-hoa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/images/huongyen.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/landingpage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="282" column="46" selection-start-line="282" selection-start-column="46" selection-end-line="282" selection-end-column="46" />
+        <state relative-caret-position="246">
+          <caret line="226" column="74" selection-start-line="226" selection-start-column="74" selection-end-line="226" selection-end-column="74" />
         </state>
       </provider>
     </entry>
