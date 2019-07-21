@@ -229,8 +229,8 @@ a:hover {
   }
 
   #harm .list-harm__item {
-    flex: 0 0 50%;
-    padding: 10px;
+    flex: 0 0 50% !important;
+    padding: 10px !important;
   }
 
   #harm .list-harm__item .item-content__text {
@@ -322,6 +322,18 @@ a:hover {
 }
 .text-red{
   color: red;
+}
+@media (max-width: 813px) {
+    #banner3 .banner-content .title{
+        font-size: 20px;
+    }
+    #harm .list-harm__item{
+        flex: 0 0 25%;
+        padding: 0 5px;
+    }
+    body{
+        font-size: 0.8rem !important;
+    }
 }
 @media (max-width: 768px) {
   .doctor-intro {
@@ -416,6 +428,10 @@ a:hover {
 }
 
 @media (max-width: 576px) {
+    /*#harm .list-harm__item{*/
+        /*flex: 0 0 25%;*/
+        /*padding: 0 30px;*/
+    /*}*/
   .list-price {
     background: #E6E6E6;
     margin: 0 -15px;
